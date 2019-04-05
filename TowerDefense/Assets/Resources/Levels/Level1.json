@@ -1,0 +1,32 @@
+{
+    "m_waves": [
+        {
+            "m_timeBetweenWaves": 2.0,
+            "m_enemies": [
+                {
+                    "m_enemy": "BaseEnemy",
+                    "m_count": 2,
+                    "m_spawnDelay": 0.10000000149011612,
+                    "m_startDelay": 2.0
+                }
+            ]
+        },
+        {
+            "m_timeBetweenWaves": 2.0,
+            "m_enemies": [
+                {
+                    "m_enemy": "BaseEnemy",
+                    "m_count": 3,
+                    "m_spawnDelay": 0.5,
+                    "m_startDelay": 0.0
+                },
+                {
+                    "m_enemy": "Hellephant",
+                    "m_count": 4,
+                    "m_spawnDelay": 0.25,
+                    "m_startDelay": 3.0
+                }
+            ]
+        }
+    ]
+}
